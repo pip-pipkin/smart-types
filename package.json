@@ -16,7 +16,7 @@
     "type",
     "checking"
   ],
-  "author": "John Pipkin <pip.pipkin@gmail.com>",
+  "author": "Pip <pip.pipkin@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jdpipkin/smart-types/issues"
