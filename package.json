@@ -1,6 +1,6 @@
 {
   "name": "smart-types",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A smarter way to check Javascript types.",
   "main": "index.js",
   "scripts": {
