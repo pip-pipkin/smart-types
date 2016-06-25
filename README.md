@@ -37,7 +37,7 @@ $ npm install -S start-types
 
 ## API Reference
 
-API reference can be found at (https://jdpipkin.github.io/smart-types/docs/)[https://jdpipkin.github.io/smart-types/docs/]
+API reference can be found at [http://jdpipkin.github.io/smart-types/docs/]
 
 
 ## Tests
