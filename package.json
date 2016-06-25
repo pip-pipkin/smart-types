@@ -1,0 +1,31 @@
+{
+  "name": "smart-types",
+  "version": "0.0.1",
+  "description": "A smarter way to check Javascript types.",
+  "main": "index.js",
+  "scripts": {
+    "test": " mocha --reporter spec spec/*.spec.js",
+    "cover": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha -- -R spec spec/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdpipkin/smart-types.git"
+  },
+  "keywords": [
+    "javascript",
+    "type",
+    "checking"
+  ],
+  "author": "John Pipkin <pip.pipkin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdpipkin/smart-types/issues"
+  },
+  "homepage": "https://github.com/jdpipkin/smart-types#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.9",
+    "istanbul": "^0.4.4",
+    "mocha": "^2.5.3"
+  }
+}
